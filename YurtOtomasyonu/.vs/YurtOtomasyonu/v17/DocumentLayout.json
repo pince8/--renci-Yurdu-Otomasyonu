@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|c:\\users\\pceli\\source\\repos\\yurtotomasyonu\\yurtotomasyonu\\frmbolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmbolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmadmingiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmadmingiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmogrliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmogrliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmogrliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmogrliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmogrkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmogrkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmogrkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmogrkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmogrduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmogrduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmogrduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmogrduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmbolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmbolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\sqlbaglantim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\sqlbaglantim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmbolumler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmbolumler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\yurtotomasyonu\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0853B544-3C1C-420C-96A4-23C28A802D6F}|YurtOtomasyonu\\YurtOtomasyonu.csproj|solutionrelative:yurtotomasyonu\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 539,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\Program.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:23:26.403Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAdminGiris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAdminGiris.Designer.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmAdminGiris.Designer.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAdminGiris.Designer.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmAdminGiris.Designer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAewJEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:40:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAdminGiris.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmAdminGiris.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:42:28.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:08:15.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAnaForm.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmAnaForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:45:24.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBolumler.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmBolumler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmBolumler.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmBolumler.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmBolumler.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwGQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:15:16.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAdminGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:17:11.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmYonetici.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmYonetici.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmYonetici.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmYonetici.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmYonetici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:38:14.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmYonetici.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmYonetici.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmYonetici.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmYonetici.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmYonetici.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:40:21.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmPersonel.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmPersonel.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmPersonel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:45:53.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmOgrListe.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrListe.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOgrListe.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrListe.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOgrListe.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:55:53.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmOgrListe.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrListe.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOgrListe.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrListe.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOgrListe.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:19:45.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmOgrKay\u0131t.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrKay\u0131t.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOgrKay\u0131t.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrKay\u0131t.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOgrKay\u0131t.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:54:05.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmOgrKay\u0131t.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrKay\u0131t.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOgrKay\u0131t.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrKay\u0131t.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOgrKay\u0131t.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:24:35.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmOgrDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrDuzenle.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOgrDuzenle.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrDuzenle.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOgrDuzenle.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:18:28.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmOgrDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrDuzenle.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOgrDuzenle.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOgrDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOgrDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:26:33.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmOdemeler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOdemeler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOdemeler.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOdemeler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOdemeler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:35:43.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmOdemeler.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOdemeler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmOdemeler.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmOdemeler.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmOdemeler.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:07:02.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmBolumler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmBolumler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmBolumler.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmBolumler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmBolumler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:51:44.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SqlBaglantim.cs",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\SqlBaglantim.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\SqlBaglantim.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\SqlBaglantim.cs",
+              "RelativeToolTip": "YurtOtomasyonu\\SqlBaglantim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:19:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmBolumler.resx",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmBolumler.resx",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmBolumler.resx",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmBolumler.resx",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmBolumler.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-05T18:41:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmPersonel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonu\\FrmPersonel.cs",
+              "ToolTip": "C:\\Users\\pceli\\source\\repos\\YurtOtomasyonu\\YurtOtomasyonu\\FrmPersonel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtOtomasyonu\\FrmPersonel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:34:39.331Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\bin\Debug\YurtOtomasyonu.exe.config
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\bin\Debug\YurtOtomasyonu.exe
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\bin\Debug\YurtOtomasyonu.pdb
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.FrmBolumler.resources
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.FrmOgrKayıt.resources
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.Properties.Resources.resources
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.csproj.GenerateResource.cache
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.exe
+C:\Users\pceli\source\repos\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.pdb
